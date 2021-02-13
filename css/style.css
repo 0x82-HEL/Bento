@@ -1,4 +1,4 @@
-/* Import font*/
+#c90404/* Import font*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 
 :root {
@@ -36,7 +36,7 @@
 /* Dark theme  */
 .darktheme {
   --accent: #186efd60; /* Hover color */
-  --bg: #1e1f21;       /* Background color */
+  --bg: #c90404;       /* Background color */
   --sbg: #2c2d31;      /* Cards color */
   --fg: #d8dee9;       /* Foreground color */
   --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));    /* Filter color */
